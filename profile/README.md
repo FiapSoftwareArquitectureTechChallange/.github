@@ -26,7 +26,7 @@ O grupo de trabalho é formado pelos seguintes integrantes:
 - Repositórios
     - Terraform
        - [Infra do Lambda - BurgerRoyale Auth](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Auth.Infra.Terraform)
-       - [Infra do k8s - BurgerRoyale](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Auth.Infra.Terraform)
+       - [Infra do k8s - BurgerRoyale](https://github.com/FiapSoftwareArquitectureTechChallange/kubeterraform)
        - [Infra do RDS e VPC](https://github.com/FiapSoftwareArquitectureTechChallange/dbterraform)
    - API
        - [BurgerRoyale Auth API](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Auth)
