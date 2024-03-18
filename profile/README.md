@@ -14,7 +14,7 @@ O grupo de trabalho é formado pelos seguintes integrantes:
 
 ## Links do projeto
 
-- Arquitetura e desenho
+- [Arquitetura e desenho}(https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/Arquitetura-da-Solu%C3%A7%C3%A3o)
     - Banco de dados
     - Infra AWS
 - Vídeo com explicação da arquitetura
