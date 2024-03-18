@@ -20,6 +20,6 @@ O grupo de trabalho é formado pelos seguintes integrantes:
 - Vídeo com explicação da arquitetura
 - Documentação das APIs
     - BurgerRoyale.Auth API
-    - BurgerRoyale API
+    - [BurgerRoyale API](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/API-BurgerRoyale)
     - [Collection do Postman](https://github.com/FiapSoftwareArquitectureTechChallange/.github/blob/main/BurgerRoyale_Collection_v2.0.0.postman_collection.json)
     - Guia de utilização
