@@ -17,6 +17,7 @@ O grupo de trabalho é formado pelos seguintes integrantes:
 - [Arquitetura e desenho](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/Arquitetura-da-Solu%C3%A7%C3%A3o)
     - Banco de dados
     - Infra AWS
+- [Vídeo com explicação](https://www.youtube.com/watch?v=-G2csOKaOIM)
 - Documentação das APIs
     - [BurgerRoyale.Auth API](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/API-BurgerRoyale-Auth)
     - [BurgerRoyale API](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/API-BurgerRoyale)
