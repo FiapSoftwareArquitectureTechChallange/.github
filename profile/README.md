@@ -19,7 +19,7 @@ O grupo de trabalho é formado pelos seguintes integrantes:
     - Infra AWS
 - TBD [Vídeo com explicação](https://www.youtube.com/watch?v=-G2csOKaOIM)
 - Documentação dos serviços
-    - [BurgerRoyale.Auth API](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/API-BurgerRoyale-Auth)
+    - [BurgerRoyale.Auth](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/API-BurgerRoyale-Auth)
     - TBD [BurgerRoyale.Orders](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/API-BurgerRoyale)
     - TBD BurgerRoyale.Payment
     - TBD BurgerRoyale.Kitchen
@@ -31,7 +31,7 @@ O grupo de trabalho é formado pelos seguintes integrantes:
        - [Infra do k8s - BurgerRoyale](https://github.com/FiapSoftwareArquitectureTechChallange/kubeterraform)
        - [Infra do RDS e VPC](https://github.com/FiapSoftwareArquitectureTechChallange/dbterraform)
    - Serviços
-       - TBD [BurgerRoyale Auth API](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Auth)
-       - TBD [BurgerRoyale Orders](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale)
+       - [BurgerRoyale Auth](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Auth)
+       - [BurgerRoyale Orders](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale)
        - [BurgerRoyale Payment](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Payment)
        - [BurgerRoyale Kitchen](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Kitchen)
