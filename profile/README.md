@@ -14,24 +14,24 @@ O grupo de trabalho é formado pelos seguintes integrantes:
 
 ## Links do projeto
 
-- TBD [Arquitetura e desenho](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/Arquitetura-da-Solu%C3%A7%C3%A3o)
+- [Arquitetura e desenho](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/Arquitetura-da-Solu%C3%A7%C3%A3o)
     - Banco de dados
     - Infra AWS
 - TBD [Vídeo com explicação](https://www.youtube.com/watch?v=-G2csOKaOIM)
 - Documentação dos serviços
-    - TBD [BurgerRoyale.Auth API](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/API-BurgerRoyale-Auth)
-    - TBD [BurgerRoyale.Orders API](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/API-BurgerRoyale)
+    - [BurgerRoyale.Auth API](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/API-BurgerRoyale-Auth)
+    - TBD [BurgerRoyale.Orders](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/API-BurgerRoyale)
     - TBD BurgerRoyale.Payment
     - TBD BurgerRoyale.Kitchen
     - [Collection do Postman](https://github.com/FiapSoftwareArquitectureTechChallange/.github/blob/main/BurgerRoyale_Collection_v2.1.0.postman_collection)
     - TBD [Guia de utilização](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/Guia-de-utiliza%C3%A7%C3%A3o)
 - Repositórios
     - Terraform
-       - TBD [Infra do Lambda - BurgerRoyale Auth](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Auth.Infra.Terraform)
-       - TBD [Infra do k8s - BurgerRoyale](https://github.com/FiapSoftwareArquitectureTechChallange/kubeterraform)
-       - TBD [Infra do RDS e VPC](https://github.com/FiapSoftwareArquitectureTechChallange/dbterraform)
+       - [Infra do Lambda - BurgerRoyale Auth](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Auth.Infra.Terraform)
+       - [Infra do k8s - BurgerRoyale](https://github.com/FiapSoftwareArquitectureTechChallange/kubeterraform)
+       - [Infra do RDS e VPC](https://github.com/FiapSoftwareArquitectureTechChallange/dbterraform)
    - Serviços
        - TBD [BurgerRoyale Auth API](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Auth)
-       - TBD [BurferRoyale Orders API](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale)
-       - TBD BurferRoyale Payment API
-       - TBD BurferRoyale Kitchen API
+       - TBD [BurgerRoyale Orders](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale)
+       - [BurgerRoyale Payment](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Payment)
+       - [BurgerRoyale Kitchen](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Kitchen)
