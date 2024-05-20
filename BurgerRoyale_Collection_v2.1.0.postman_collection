@@ -3666,7 +3666,7 @@
 										],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n  \"orderId\": \"<uuid>\",\n  \"value\": \"<double>\",\n  \"userId\": \"<uuid>\"\n}",
+											"raw": "{\n  \"orderId\": \"<uuid>\",\n  \"amount\": \"<double>\",\n  \"userId\": \"<uuid>\"\n}",
 											"options": {
 												"raw": {
 													"headerFamily": "json",
