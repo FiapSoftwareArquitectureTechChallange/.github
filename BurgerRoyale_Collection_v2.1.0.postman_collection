@@ -4437,7 +4437,7 @@
 										],
 										"body": {
 											"mode": "raw",
-											"raw": "{\n  \"orderId\": \"<uuid>\",\n  \"products\": [\n    {\n      \"productId\": \"<uuid>\",\n      \"productName\": \"<string>\",\n      \"quantity\": \"<integer>\"\n    },\n    {\n      \"productId\": \"<uuid>\",\n      \"productName\": \"<string>\",\n      \"quantity\": \"<integer>\"\n    }\n  ],\n  \"orderStatus\": 1\n}",
+											"raw": "{\n  \"orderId\": \"<uuid>\",\n  \"orderProducts\": [\n    {\n      \"productId\": \"<uuid>\",\n      \"productName\": \"<string>\",\n      \"quantity\": \"<integer>\"\n    },\n    {\n      \"productId\": \"<uuid>\",\n      \"productName\": \"<string>\",\n      \"quantity\": \"<integer>\"\n    }\n  ],\n  \"userId\": \"<uuid>\"\n}",
 											"options": {
 												"raw": {
 													"headerFamily": "json",
