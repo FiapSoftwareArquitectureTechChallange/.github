@@ -22,7 +22,7 @@ O grupo de trabalho é formado pelos seguintes integrantes:
     - [BurgerRoyale.Auth](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/BurgerRoyale-Auth)
     - [BurgerRoyale.Orders](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/BurgerRoyale-Orders)
     - [BurgerRoyale.Payment](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/BurgerRoyale-Payment)
-    - TBD BurgerRoyale.Kitchen
+    - [BurgerRoyale.Kitchen](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/BurgerRoyale-Kitchen)
     - [Collection do Postman](https://github.com/FiapSoftwareArquitectureTechChallange/.github/blob/main/BurgerRoyale_Collection_v2.1.0.postman_collection)
     - TBD [Guia de utilização](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/Guia-de-utiliza%C3%A7%C3%A3o)
 - Repositórios
