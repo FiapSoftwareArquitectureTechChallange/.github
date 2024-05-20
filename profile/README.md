@@ -19,8 +19,8 @@ O grupo de trabalho é formado pelos seguintes integrantes:
     - Infra AWS
 - TBD [Vídeo com explicação](https://www.youtube.com/watch?v=-G2csOKaOIM)
 - Documentação dos serviços
-    - [BurgerRoyale.Auth](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/API-BurgerRoyale-Auth)
-    - TBD [BurgerRoyale.Orders](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/API-BurgerRoyale)
+    - [BurgerRoyale.Auth](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/BurgerRoyale-Auth)
+    - [BurgerRoyale.Orders](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/BurgerRoyale-Orders)
     - TBD BurgerRoyale.Payment
     - TBD BurgerRoyale.Kitchen
     - [Collection do Postman](https://github.com/FiapSoftwareArquitectureTechChallange/.github/blob/main/BurgerRoyale_Collection_v2.1.0.postman_collection)
