@@ -25,6 +25,7 @@ O grupo de trabalho é formado pelos seguintes integrantes:
     - [BurgerRoyale.Kitchen](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/BurgerRoyale-Kitchen)
     - [Collection do Postman](https://github.com/FiapSoftwareArquitectureTechChallange/.github/blob/main/BurgerRoyale_Collection_v2.1.0.postman_collection)
     - [Guia de utilização](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/Guia-de-utiliza%C3%A7%C3%A3o)
+    - [SonarCloud dos Projetos](https://sonarcloud.io/organizations/3soat-burger-royale/projects)
 - Repositórios
     - Terraform
        - [Infra do Lambda - BurgerRoyale Auth](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Auth.Infra.Terraform)
