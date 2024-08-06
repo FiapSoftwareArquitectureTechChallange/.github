@@ -15,9 +15,11 @@ O grupo de trabalho é formado pelos seguintes integrantes:
 ## Links do projeto
 
 - [Arquitetura e desenho](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/Arquitetura-da-Solu%C3%A7%C3%A3o)
+    - Saga Pattern
     - Banco de dados
     - Infra AWS
 - [Vídeo com explicação](https://www.youtube.com/watch?v=MDMqVqKNED8)
+- Relatório RIPD
 - Documentação dos serviços
     - [BurgerRoyale.Auth](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/BurgerRoyale-Auth)
     - [BurgerRoyale.Orders](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/BurgerRoyale-Orders)
