@@ -20,6 +20,7 @@ O grupo de trabalho é formado pelos seguintes integrantes:
     - Infra AWS
 - [Vídeo com explicação](https://www.youtube.com/watch?v=MDMqVqKNED8)
 - Relatório RIPD
+- [Relatório OWASP de vulnerabilidades](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Orders/blob/main/relatorioVulnerabilidades.pdf)
 - Documentação dos serviços
     - [BurgerRoyale.Auth](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/BurgerRoyale-Auth)
     - [BurgerRoyale.Orders](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/BurgerRoyale-Orders)
