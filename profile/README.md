@@ -18,9 +18,9 @@ O grupo de trabalho é formado pelos seguintes integrantes:
     - Saga Pattern
     - Banco de dados
     - Infra AWS
-- [Vídeo com explicação](https://www.youtube.com/watch?v=MDMqVqKNED8)
-- Relatório RIPD
-- [Relatório OWASP de vulnerabilidades](https://github.com/FiapSoftwareArquitectureTechChallange/BurgerRoyale.Orders/blob/main/relatorioVulnerabilidades.pdf)
+- [Vídeo com explicação](https://www.youtube.com/watch?v=AAjK2u6DNlo)
+- [Relatório RIPD](https://github.com/FiapSoftwareArquitectureTechChallange/.github/blob/main/RIPD.pdf)
+- [Relatório OWASP de vulnerabilidades](https://github.com/FiapSoftwareArquitectureTechChallange/.github/blob/main/RelatorioVulnerabilidades.pdf)
 - Documentação dos serviços
     - [BurgerRoyale.Auth](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/BurgerRoyale-Auth)
     - [BurgerRoyale.Orders](https://github.com/FiapSoftwareArquitectureTechChallange/.github/wiki/BurgerRoyale-Orders)
